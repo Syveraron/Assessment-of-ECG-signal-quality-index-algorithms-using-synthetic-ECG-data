@@ -1,0 +1,5 @@
+,Noise Type,SQA1,SQA2,SQA3,SQA4
+walking,walking,0.21,0.9,1.0,1.0
+hand_movement,hand_movement,1.0,1.0,1.0,1.0
+muscle_artifact,muscle_artifact,0.75,1.0,1.0,1.0
+baseline_wander,baseline_wander,1.0,1.0,1.0,1.0
